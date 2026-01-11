@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/unique_8080" target="blank"><img src="https://img.shields.io/twitter/follow/unique_8080?logo=twitter&style=for-the-badge" alt="unique_8080" /></a> </p>
 
-- 📫 How to reach me **arafatchougle12@gmail.com**
+- 📫 How to reach me ****
 
-- 📄 Know about my experiences [https://torquick.com/](https://torquick.com/)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **Programming is 10% writing code and 90% figuring out why it doesn't work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/unique_8080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unique_8080" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arafat-chougle-8073a5221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arafat-chougle-8073a5221" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23371438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23371438" height="30" width="40" /></a>
-<a href="https://instagram.com/timetravelingsince2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timetravelingsince2004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/unique8080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="unique8080" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
